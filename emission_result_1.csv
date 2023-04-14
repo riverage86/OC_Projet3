@@ -1,0 +1,21 @@
+;Modele;MSE;RMSE;R2
+0;Dummy regression train;5.7;2.39;0
+1;Dummy regression test;5.91;2.43;-0.01
+2;KRR linear train;1.55;1.25;0.73
+3;KRR linear test;1.84;1.36;0.69
+4;KRR rbf train;2.16;1.47;0.62
+5;KRR rbf test;8.06;2.84;-0.38
+6;KRR hyperparametre train;1.54;1.24;0.73
+7;KRR hyperparametre test;2.2;1.48;0.62
+8;SVR train;2.16;1.47;0.62
+9;SVR test;4.37;2.09;0.25
+10;Ramdom Forest train;0.14;0.37;0.98
+11;Ramdom Forest test;2.78;1.67;0.52
+12;Bagging Tree train;0.18;0.43;0.97
+13;Bagging Tree test;3.01;1.74;0.49
+14;Bagging Hyperparametre train;0.13;0.36;0.98
+15;Bagging Hyperparametre test;2.77;1.67;0.53
+16;GBoost regression train;0.14;0.38;0.98
+17;GBoost regression test;2.94;1.71;0.5
+18;Arbre de decision train;0.14;0.38;0.98
+19;Arbre de decision test;2.74;1.65;0.53
