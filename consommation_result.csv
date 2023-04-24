@@ -1,25 +1,27 @@
 ,Modele,MSE,RMSE,R2
-0,Dummy regression train,6003.81,77.48,0.0
-1,Dummy regression test,4199.78,64.81,-0.01
-2,KRR linear train,2858.43,53.46,0.52
-3,KRR linear test,3863.48,62.16,0.07
-4,KRR rbf train,3004.49,54.81,0.5
-5,KRR rbf test,2488.27,49.88,0.4
-6,KRR polynomial train,2740.21,52.35,0.54
-7,KRR polynomial test,24883.55,157.75,-4.99
-8,KRR hyperparametre train,2092.49,45.74,0.65
-9,KRR hyperparametre test,2076.71,45.57,0.5
-10,SVR train,2740.21,52.35,0.54
-11,SVR test,3595.04,59.96,0.13
-12,Ramdom Forest train,383.59,19.59,0.94
-13,Ramdom Forest test,1484.98,38.54,0.64
-14,Bagging Tree train,487.08,22.07,0.92
-15,Bagging Tree test,1669.16,40.86,0.6
-16,Bagging Hyperparametre train,344.86,18.57,0.94
-17,Bagging Hyperparametre test,1336.92,36.56,0.68
-18,GBoost regression train,846.33,29.09,0.86
-19,GBoost regression test,1446.83,38.04,0.65
-20,GBoost regression train,846.33,29.09,0.86
-21,GBoost regression test,1803.95,42.47,0.57
-22,Arbre de decision train,846.33,29.09,0.86
-23,Arbre de decision test,2582.45,50.82,0.38
+0,Dummy regression train,0.7,0.84,0.0
+1,Dummy regression test,0.66,0.81,-0.0
+2,KRR linear train,0.34,0.58,0.51
+3,KRR linear test,0.4,0.63,0.39
+4,KRR rbf train,0.41,0.64,0.41
+5,KRR rbf test,0.44,0.66,0.33
+6,KRR polynomial train,0.36,0.6,0.48
+7,KRR polynomial test,0.37,0.61,0.44
+8,KRR hyperparametre train,0.44,0.67,0.36
+9,KRR hyperparametre test,0.53,0.73,0.2
+10,SVR train,0.36,0.6,0.48
+11,SVR test,0.35,0.59,0.47
+12,Ramdom Forest train,0.08,0.29,0.88
+13,Ramdom Forest test,0.29,0.54,0.55
+14,Bagging Tree train,0.09,0.3,0.87
+15,Bagging Tree test,0.32,0.57,0.51
+16,Bagging Hyperparametre train,0.08,0.29,0.88
+17,Bagging Hyperparametre test,0.29,0.54,0.56
+18,GBoost regression train,0.22,0.47,0.69
+19,GBoost regression test,0.26,0.51,0.6
+20,GBoost regression train hyper,0.22,0.47,0.69
+21,GBoost regression test hyper,0.26,0.51,0.6
+22,Arbre de decision train,0.22,0.47,0.69
+23,Arbre de decision test,0.5,0.71,0.23
+24,Arbre de decision Hyperparametre train,0.22,0.47,0.69
+25,Arbre de decision Hyperparametre test,0.36,0.6,0.45
